@@ -1,0 +1,29 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 20px;
+    
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 0%;
+}
+.personals{
+    text-align: justify;
+}
+p{
+    font-size: larger;
+}
+li{
+    list-style-type: disc;
+    font-size: larger;
+}
+h2{
+    background-color:lightgray;
+}
